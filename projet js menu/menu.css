@@ -1,0 +1,42 @@
+body {
+text-align: center;
+color:rgb(6, 12, 22);
+}
+
+button {
+background-color: #555555;
+border: 2px solid #0d111b;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: block;
+font-size: 16px;
+margin : auto;
+cursor: pointer;
+}
+
+
+select{
+width: 25%;
+padding: 12px 20px;
+margin: 25px;
+box-sizing: border-box;
+border: 2px solid #555;
+outline: none;
+background: #777777;
+color: rgb(255, 255, 255);
+text-align: center;
+}
+
+#aff{
+    font-size: x-large;
+}
+
+#aff1{
+    font-size: x-large;
+}
+
+#aff2{
+    font-size: x-large;
+}
